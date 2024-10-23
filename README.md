@@ -16,5 +16,3 @@ This is a simple and responsive form created using HTML, CSS, and Font Awesome i
   - Credit card details (card number, CVC, expiration date)
 - Includes a checkbox for terms and conditions.
 
-## Screenshot
-
